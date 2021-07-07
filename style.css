@@ -1,27 +1,25 @@
-.navDesign {
-    background-color: cornflowerblue;
-    padding: 10px;
-}
-
-.title {
-    font-weight: bold;
-}
-
-.card {
-    margin-right: 35px;
-}
-
-#search {
-    display: block;
-    margin-top: 10px;
-    background-color: lightskyblue;
-    padding-left: 50px;
-    padding-right: 50px;
-    border-radius: 5px;
+*{
+    box-sizing: border-box;
     
 }
-#todayWeather {
-    border: 2px solid black;
-    margin-right: 10px;
-}
 
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
