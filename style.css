@@ -1,0 +1,27 @@
+.navDesign {
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.card {
+    margin-right: 35px;
+}
+
+#search {
+    display: block;
+    margin-top: 10px;
+    background-color: lightskyblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    
+}
+#todayWeather {
+    border: 2px solid black;
+    margin-right: 10px;
+}
+
