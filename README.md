@@ -20,6 +20,7 @@ You will be able to view the website on a desktop web browser once it is deploye
 Desktop Screen:
 ![Weather Dashboard](./assets/img1.png)
 ![Weather Dashboard](./assets/img2.png)
+![Weather Dashboard](./assets/img3.png)
 
 ## Credits
 
