@@ -27,7 +27,7 @@ Desktop Screen:
 ### Tutorials Used
 * [https://openweathermap.org/forecast5](https://openweathermap.org/forecast5)
 * [https://openweathermap.org/api/solar-radiation](https://openweathermap.org/api/solar-radiation)
-* [https://openweathermap.org/current](https://openweathermap.org/current)
+
 
 ## License
 
