@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project was to utilize the OpenWeather One Call API to retreive weather data for cities. By using localStorage, my program can store any persistant data. This website can be used to check the weather for multiple cities. When the user searches a city, they are presented with current and future conditions for that city and it is added to the search history. The current weather conditions given display the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. The UV index will be red for unfavorable conditions and green for favorable. It also presents a 5-day forecast. WHen the city is pressed from the search history, the current and future conditions for that city are displayed.
+ By using localStorage, my program can store any persistant data. This website can be used to check the weather for multiple cities. When the user searches a city, they are presented with current and future conditions for that city and it is added to the search history. The current weather conditions given display the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. The UV index will be red for unfavorable conditions and green for favorable. It also presents a 5-day forecast. WHen the city is pressed from the search history, the current and future conditions for that city are displayed.
 
 ## Links
 - [Deployed Website](https://erinlim2001.github.io/weather-dashboard/)
